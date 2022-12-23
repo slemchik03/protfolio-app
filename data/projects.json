@@ -1,0 +1,29 @@
+{
+  "projects":[
+     {
+        "name":"Facebook Clone",
+        "category":"TypeScript/NextJS",
+        "img":"/project.png"
+     },
+     {
+        "name":"Bicycle Landing",
+        "category":"HTML/CSS",
+        "img":"/project-1.png"
+     },
+     {
+        "name":"Webovio Landing",
+        "category":"HTML/CSS",
+        "img":"/project-2.png"
+     },
+     {
+        "name":"Travel Company",
+        "category":"React/TypeScript",
+        "img":"/project-3.png"
+     },
+     {
+        "name":"Fish Product",
+        "category":"React/TypeScript",
+        "img":"/project-4.png"
+     }
+  ]
+}
